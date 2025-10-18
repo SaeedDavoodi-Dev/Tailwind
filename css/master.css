@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Anton;
+    src: url(../font/Anton-Regular.ttf);
+}
+@layer base {
+    body {
+        font-family: Anton, sans-serif;
+    }
+}
