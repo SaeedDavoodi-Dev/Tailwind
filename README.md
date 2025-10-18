@@ -3,7 +3,8 @@
 <img width="1334" height="550" alt="Image" src="https://github.com/user-attachments/assets/6e0a1e07-4453-419a-ae54-422082b33ae9" />
   
 ## 📖 Description : 
-My first responsive website project built with Tailwind and HTML & CSS.
+This website is responsive.
+I built this website with Tailwind, Html and css.
   
 ---
   
